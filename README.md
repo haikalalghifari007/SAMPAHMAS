@@ -10,10 +10,12 @@ Job Desc:
 Anggota 1:
  - Membuat Front-end bagian login, halaman utama, halaman pembayaran, Menu Exchange
  - Membuat Back-end pada recyclerview product, data-data produk ke firebase dan firebase storage
+
 Anggota 2:
  - Membuat Auth Login & Sign Up dan menghubungkannya dengan Firebase
  - Membuat fungsionalitas Transaksi serta integrasi dengan API Midtrans
- Anggota 3:
+
+Anggota 3:
  - Mengintegrasikan Firebase dengan IOT 
  - Mengintegrasikan QR CODE dan NFC
  - Membuat dan integrasi Maps

@@ -4,7 +4,7 @@ Nama Anggota:
 1) (21523253) Jamaludin Haikal Al Ghifari 
 2) (21523239) Hasan Rama Sagita 21523239
 3) (21523122) Gilang Aryo Pamungkas
-4)
+4) (21523074) Fahni Maharani
 
 Job Desc:
 Anggota 1:
@@ -19,3 +19,6 @@ Anggota 3:
  - Mengintegrasikan Firebase dengan IOT 
  - Mengintegrasikan QR CODE dan NFC
  - Membuat dan integrasi Maps
+
+Anggota 4:
+ - Membuat Front-end bagian halaman Green Market, halaman tampilan produk, tampilan Loading, Pop-up Pembayaran, Wishlist, halaman Checkout, status pembayaran, daily mission

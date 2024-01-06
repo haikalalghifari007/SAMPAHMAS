@@ -2,7 +2,7 @@ Nama Aplikasi:  SAMPAHMAS
 Nama Kelompok:  HAYSTUDIO
 Nama Anggota:
 1) (21523253) Jamaludin Haikal Al Ghifari 
-2)
+2) 
 3) (21523122) Gilang Aryo Pamungkas
 4)
 
@@ -15,5 +15,5 @@ Anggota 2:
  -
  Anggota 3:
  - Mengintegrasikan Firebase dengan IOT 
- - Mengintegrasikan QR Code dan NFC
+ - Mengintegrasikan QR CODE dan NFC
  - Membuat dan integrasi Maps

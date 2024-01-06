@@ -3,7 +3,7 @@ Nama Kelompok:  HAYSTUDIO
 Nama Anggota:
 1) (21523253) Jamaludin Haikal Al Ghifari 
 2)
-3)
+3) (21523122) Gilang Aryo Pamungkas
 4)
 
 Job Desc:
@@ -13,3 +13,7 @@ Anggota 1:
 Anggota 2:
  -
  -
+ Anggota 3:
+ - Mengintegrasikan Firebase dengan IOT 
+ - Mengintegrasikan QR Code dan NFC
+ - Membuat dan integrasi Maps
